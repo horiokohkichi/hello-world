@@ -17,6 +17,6 @@ GitHubを使い始めたいと思います。
     - [On Demand Training](https://services.github.com/on-demand/)
 2. ~~markdownのリファンレンスをGitHub Wikiに作ってみます。~~
     1. ~~Wikiの本来の使い方を知る~~
-    2. ~~markdownの使い方を参照出来るページを作る~~
+    2. ~~markdownの使い方を参照出来るページを作る~~　
     3. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)というページがあったのと、Wikiのhintがあったので。
 3. Webサイトのテンプレート（モックアップ）を作ってみます。
