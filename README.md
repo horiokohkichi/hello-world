@@ -3,7 +3,7 @@ Just another repository
 
 ## Before begin
 GitHubを使い始めたいと思います。
-これは、[GitHub Guides] (https://guides.github.com/activities/hello-world/ 'Hellow World') を参考にしています。
+これは、[GitHub Guides](https://guides.github.com/activities/hello-world/ "Hellow World") を参考にしています。
 
 ## Vision
 1. サイト制作などのバージョン管理や、テンプレートとかWordPressのテーマ作りに利用したいと思っています。
