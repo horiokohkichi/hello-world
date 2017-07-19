@@ -11,8 +11,8 @@ GitHubを使い始めたいと思います。
 
 ### What's the next action
 1. [GitHub Guides](https://guides.github.com/) を読みます。
- -- [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
- -- [YouTube Channel](http://youtube.com/githubguides)
- -- [On Demand Training](https://services.github.com/on-demand/)
+ - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+ - [YouTube Channel](http://youtube.com/githubguides)
+ - [On Demand Training](https://services.github.com/on-demand/)
 2. markdownのリファンレンスを作ってみます。
 2. Webサイトのテンプレート（モックアップ）を作ってみます。
